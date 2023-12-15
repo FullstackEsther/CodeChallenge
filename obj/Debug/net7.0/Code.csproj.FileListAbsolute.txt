@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Code\bin\Debug\net7.0\Code.exe
+C:\Users\Admin\OneDrive\Desktop\Code\bin\Debug\net7.0\Code.deps.json
+C:\Users\Admin\OneDrive\Desktop\Code\bin\Debug\net7.0\Code.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Code\bin\Debug\net7.0\Code.dll
+C:\Users\Admin\OneDrive\Desktop\Code\bin\Debug\net7.0\Code.pdb
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.dll
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\refint\Code.dll
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.pdb
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\Code.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Code\obj\Debug\net7.0\ref\Code.dll
